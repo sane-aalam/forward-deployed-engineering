@@ -1,0 +1,22 @@
+[
+    {
+        "id": "POL-001",
+        "title": "Damaged and Defective Items Replacement Policy",
+        "content": "Customers are eligible for a full replacement or refund if an item arrives damaged or defective. The request must be submitted within 7 calendar days of delivery with proof of damage (photo/video)."
+    },
+    {
+        "id": "POL-002",
+        "title": "Standard Change of Mind Return Policy",
+        "content": "For items where the customer changed their mind, returns are allowed within 3 calendar days of delivery. Item must be unopened, in original packaging, and with all tags intact."
+    },
+    {
+        "id": "POL-003",
+        "title": "Order Tracking and Transit Times",
+        "content": "Orders placed before 2 PM are shipped the same business day. Standard delivery takes 3 to 5 business days. Real-time tracking is updated via the courier API."
+    },
+    {
+        "id": "POL-004",
+        "title": "Refund Processing Timeline",
+        "content": "Once an item is received and inspected at our distribution warehouse, refunds are automatically issued within 5 to 7 business days to the customer's original payment method."
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "text": "Where is my order?",
+        "label": "order_status"
+    },
+    {
+        "text": "Track my package",
+        "label": "order_status"
+    },
+    {
+        "text": "My parcel has not arrived yet",
+        "label": "order_status"
+    },
+    {
+        "text": "Delivery kab hogi?",
+        "label": "order_status"
+    },
+    {
+        "text": "Check shipment status for order ORD-123",
+        "label": "order_status"
+    },
+    {
+        "text": "When will my item be delivered?",
+        "label": "order_status"
+    },
+    {
+        "text": "Order status update please",
+        "label": "order_status"
+    },
+    {
+        "text": "I haven't received my package",
+        "label": "order_status"
+    },
+    {
+        "text": "I received a damaged product",
+        "label": "damaged_item"
+    },
+    {
+        "text": "The item inside the box is broken",
+        "label": "damaged_item"
+    },
+    {
+        "text": "Defective item received, need replacement",
+        "label": "damaged_item"
+    },
+    {
+        "text": "Screen of the product is cracked",
+        "label": "damaged_item"
+    },
+    {
+        "text": "Received wrong item in my shipment",
+        "label": "damaged_item"
+    },
+    {
+        "text": "Package arrived torn and contents missing",
+        "label": "damaged_item"
+    },
+    {
+        "text": "Can I get my money back?",
+        "label": "refund_request"
+    },
+    {
+        "text": "Requesting a full refund for my purchase",
+        "label": "refund_request"
+    },
+    {
+        "text": "When will refund be credited to my bank account?",
+        "label": "refund_request"
+    },
+    {
+        "text": "Money was deducted but order failed, refund please",
+        "label": "refund_request"
+    },
+    {
+        "text": "Process refund for returned order",
+        "label": "refund_request"
+    },
+    {
+        "text": "Please cancel my order",
+        "label": "cancellation"
+    },
+    {
+        "text": "I want to stop my shipment",
+        "label": "cancellation"
+    },
+    {
+        "text": "Cancel order #4582 immediately",
+        "label": "cancellation"
+    },
+    {
+        "text": "I ordered by mistake, cancel it",
+        "label": "cancellation"
+    }
+]
